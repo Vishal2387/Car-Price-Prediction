@@ -41,7 +41,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Car data.ipynb
 ├── main.py
 ├── Procfile
-├── random_forest_resgression.pkl
+├── random_forest_regression_model.pkl
 ├── README.md
 ├── requirements.txt
 ```
